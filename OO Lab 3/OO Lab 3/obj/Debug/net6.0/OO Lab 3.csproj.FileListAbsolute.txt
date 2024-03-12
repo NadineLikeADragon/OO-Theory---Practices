@@ -1,0 +1,14 @@
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\OO Lab 3\OO Lab 3\bin\Debug\net6.0\OO Lab 3.exe
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\OO Lab 3\OO Lab 3\bin\Debug\net6.0\OO Lab 3.deps.json
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\OO Lab 3\OO Lab 3\bin\Debug\net6.0\OO Lab 3.runtimeconfig.json
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\OO Lab 3\OO Lab 3\bin\Debug\net6.0\OO Lab 3.dll
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\OO Lab 3\OO Lab 3\bin\Debug\net6.0\OO Lab 3.pdb
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\OO Lab 3\OO Lab 3\obj\Debug\net6.0\OO Lab 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\OO Lab 3\OO Lab 3\obj\Debug\net6.0\OO Lab 3.AssemblyInfoInputs.cache
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\OO Lab 3\OO Lab 3\obj\Debug\net6.0\OO Lab 3.AssemblyInfo.cs
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\OO Lab 3\OO Lab 3\obj\Debug\net6.0\OO Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\OO Lab 3\OO Lab 3\obj\Debug\net6.0\OO Lab 3.dll
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\OO Lab 3\OO Lab 3\obj\Debug\net6.0\refint\OO Lab 3.dll
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\OO Lab 3\OO Lab 3\obj\Debug\net6.0\OO Lab 3.pdb
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\OO Lab 3\OO Lab 3\obj\Debug\net6.0\OO Lab 3.genruntimeconfig.cache
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\OO Lab 3\OO Lab 3\obj\Debug\net6.0\ref\OO Lab 3.dll
