@@ -1,0 +1,32 @@
+C:\Users\K00280943\Downloads\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K00280943\Downloads\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.AssemblyInfoInputs.cache
+C:\Users\K00280943\Downloads\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.AssemblyInfo.cs
+C:\Users\K00280943\Downloads\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.csproj.CoreCompileInputs.cache
+C:\Users\k00280943\Downloads\DealDoneApp\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k00280943\Downloads\DealDoneApp\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.AssemblyInfoInputs.cache
+C:\Users\k00280943\Downloads\DealDoneApp\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.AssemblyInfo.cs
+C:\Users\k00280943\Downloads\DealDoneApp\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.csproj.CoreCompileInputs.cache
+C:\Users\k00280943\Downloads\DealDoneApp\DealDoneApp\DealDoneApp\bin\Debug\net6.0\DealDoneApp.exe
+C:\Users\k00280943\Downloads\DealDoneApp\DealDoneApp\DealDoneApp\bin\Debug\net6.0\DealDoneApp.deps.json
+C:\Users\k00280943\Downloads\DealDoneApp\DealDoneApp\DealDoneApp\bin\Debug\net6.0\DealDoneApp.runtimeconfig.json
+C:\Users\k00280943\Downloads\DealDoneApp\DealDoneApp\DealDoneApp\bin\Debug\net6.0\DealDoneApp.dll
+C:\Users\k00280943\Downloads\DealDoneApp\DealDoneApp\DealDoneApp\bin\Debug\net6.0\DealDoneApp.pdb
+C:\Users\k00280943\Downloads\DealDoneApp\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.dll
+C:\Users\k00280943\Downloads\DealDoneApp\DealDoneApp\DealDoneApp\obj\Debug\net6.0\refint\DealDoneApp.dll
+C:\Users\k00280943\Downloads\DealDoneApp\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.pdb
+C:\Users\k00280943\Downloads\DealDoneApp\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.genruntimeconfig.cache
+C:\Users\k00280943\Downloads\DealDoneApp\DealDoneApp\DealDoneApp\obj\Debug\net6.0\ref\DealDoneApp.dll
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\DealDoneApp (1)\DealDoneApp\DealDoneApp\bin\Debug\net6.0\DealDoneApp.exe
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\DealDoneApp (1)\DealDoneApp\DealDoneApp\bin\Debug\net6.0\DealDoneApp.deps.json
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\DealDoneApp (1)\DealDoneApp\DealDoneApp\bin\Debug\net6.0\DealDoneApp.runtimeconfig.json
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\DealDoneApp (1)\DealDoneApp\DealDoneApp\bin\Debug\net6.0\DealDoneApp.dll
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\DealDoneApp (1)\DealDoneApp\DealDoneApp\bin\Debug\net6.0\DealDoneApp.pdb
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\DealDoneApp (1)\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\DealDoneApp (1)\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.AssemblyInfoInputs.cache
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\DealDoneApp (1)\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.AssemblyInfo.cs
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\DealDoneApp (1)\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\DealDoneApp (1)\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.dll
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\DealDoneApp (1)\DealDoneApp\DealDoneApp\obj\Debug\net6.0\refint\DealDoneApp.dll
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\DealDoneApp (1)\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.pdb
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\DealDoneApp (1)\DealDoneApp\DealDoneApp\obj\Debug\net6.0\DealDoneApp.genruntimeconfig.cache
+C:\Users\sonic\OneDrive - TUS MM\OO Theory & Programming\DealDoneApp (1)\DealDoneApp\DealDoneApp\obj\Debug\net6.0\ref\DealDoneApp.dll
